@@ -16,6 +16,7 @@ This code involves:
 * pgAdmin
 * https://app.quickdatabasediagrams.com/
 
+# Requirements
 Sr Leadership asked to provide the following queries, which are included as part of the queries.sql file.
 
 * List the employee number, last name, first name, sex, and salary of each employee (2 points)
